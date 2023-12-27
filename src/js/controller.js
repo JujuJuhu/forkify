@@ -14,10 +14,6 @@ import addRecipeView from './views/addRecipeView.js';
 import { setTimeout } from 'core-js';
 import { mode } from 'mathjs';
 
-// if (module.hot) {
-//   module.hot.accept();
-// }
-
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
